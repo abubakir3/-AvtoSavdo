@@ -1,0 +1,6 @@
+{
+  "name": "AutoSavdo Pro",
+  "description": "O'zbekistondagi zamonaviy avtomobil savdo maydonchasi - Modern automotive marketplace for Uzbekistan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
